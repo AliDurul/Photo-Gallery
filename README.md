@@ -1,5 +1,7 @@
 ## Welcome to My Project! 👋
 
+![photo gallery](https://github.com/AliDurul/Photo-Gallery/assets/80897590/7399af0f-9561-4e5c-969f-badd1244ebdc)
+
 Thank you for visiting my projects! I'm thrilled to have you here, and I hope you find it interesting and helpful.
 
 ## About Me
