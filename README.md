@@ -1,7 +1,7 @@
 
 <div id="user-content-toc">
   <ul align="left">
-    <summary><h1 style="display: inline-block">Full Stack Stock App</h1></summary>
+    <summary><h1 style="display: inline-block">Photo Gallery App</h1></summary>
   </ul>
 </div>
 
